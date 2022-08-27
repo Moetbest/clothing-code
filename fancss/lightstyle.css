@@ -1,0 +1,42 @@
+.big-box{
+    display: flex;
+    justify-content: center;
+    margin: 40px 60px;
+    /* background-color: white; */
+}
+
+.small-box{
+    width: 350px;
+    border: 1px solid black;
+    margin: 0 20px;
+    padding: 20px 30px;
+}
+
+img{
+    width: 150px;
+    display: flex;
+    margin-left: 50px;
+    height: 200px;
+}
+.mens{
+    color: blue;
+}
+
+.price{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+    padding-top: 5px;
+    border-color: blue;
+}
+
+.cart{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 18px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+}
